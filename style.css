@@ -1,0 +1,97 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body {
+    background-color:#FCF5EB;
+
+}
+
+.img-2 {
+    width: 400px;
+    height: 470px;
+    margin-top: -567px;
+}
+.image-2 {
+    width: 60%;
+    height: 15%;
+    margin-top: -489px;
+}
+.learn-more {
+    display: flex ;
+    flex-direction: row;
+    align-items: center;
+    gap: 0.5rem;
+    margin-top: 2rem;
+    font-size: 16px;
+}
+.link-more {
+    display: flex ;
+    flex-direction: row;
+    align-items: center;
+    gap: 0.5rem;
+    margin-top: 2rem;
+    font-size: 16px;
+    
+}
+.link-more:hover a {
+    color: #25D366;
+}
+
+.link-more a {
+    text-decoration: none;
+    color: black;
+    font-family: Helvetica Neue, Helvetica Neue, Helvetica, Arial, sans-serif;
+    text-decoration: underline 2px solid #25D366;
+    text-underline-offset: 6px;
+
+}
+.learn-more:hover a {
+    color: #25D366;
+}
+
+.learn-more a {
+    text-decoration: none;
+    color: black;
+    font-family: Helvetica Neue, Helvetica Neue, Helvetica, Arial, sans-serif;
+    text-decoration: underline 2px solid #25D366;
+    text-underline-offset: 6px;
+
+}
+.chat-messg {
+    width: 400px;
+    height: 40px;
+}
+.heart {
+    width: 430px;
+    height: 50px;
+    margin-top: -22px;
+}
+.cup {
+    width: 400px;
+    height:110px;
+}
+.voice {
+    width: 400px;
+    height:60px;
+}
+.image {
+    width: 400px;
+    height: 250px;
+    margin-top: 6px;
+}
+.smily {
+    width: 420px;
+    height: 50px;
+    margin-top: -22px;
+}
+.rply-mssg {
+    width: 400px;
+    height: 60px;
+}
+
+.chat-heart {
+    display: flex;  
+    flex-direction: column;
+}
